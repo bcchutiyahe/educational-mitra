@@ -25,19 +25,8 @@ export const metadata: Metadata = {
   keywords: 'admission consultancy, MBA admission, BBA admission, engineering admission, law admission, study abroad, free counselling, Indore',
   generator: 'v0.app',
   icons: {
-  icon: '/favicon.ico',
-  apple: '/apple-touch-icon.png',
-},
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/favicon.ico',
+    apple: '/apple-touch-icon.png',
   },
 }
 
