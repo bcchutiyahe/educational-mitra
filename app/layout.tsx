@@ -25,9 +25,9 @@ export const metadata: Metadata = {
   keywords: 'admission consultancy, MBA admission, BBA admission, engineering admission, law admission, study abroad, free counselling, Indore',
   generator: 'v0.app',
   icons: {
-    icon: '/favicon.ico',
-    apple: '/apple-touch-icon.png',
-  },
+  icon: '/images/logo.jpeg',
+  apple: '/images/logo.jpeg',
+},
 }
 
 export default function RootLayout({
