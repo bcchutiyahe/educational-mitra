@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://educationalmitra.in/</loc></url>
+  <url><loc>https://educationalmitra.in/courses</loc></url>
+  <url><loc>https://educationalmitra.in/courses/mba</loc></url>
+  <url><loc>https://educationalmitra.in/courses/bba</loc></url>
+  <url><loc>https://educationalmitra.in/courses/btech</loc></url>
+  <url><loc>https://educationalmitra.in/courses/bca-bsc</loc></url>
+  <url><loc>https://educationalmitra.in/courses/bcom</loc></url>
+  <url><loc>https://educationalmitra.in/courses/ba</loc></url>
+  <url><loc>https://educationalmitra.in/courses/law</loc></url>
+  <url><loc>https://educationalmitra.in/courses/medical</loc></url>
+  <url><loc>https://educationalmitra.in/courses/design</loc></url>
+  <url><loc>https://educationalmitra.in/courses/education</loc></url>
+  <url><loc>https://educationalmitra.in/courses/postgraduate</loc></url>
+  <url><loc>https://educationalmitra.in/study-abroad</loc></url>
+  <url><loc>https://educationalmitra.in/universities</loc></url>
+  <url><loc>https://educationalmitra.in/about</loc></url>
+  <url><loc>https://educationalmitra.in/contact</loc></url>
+</urlset>
+```
+
+**STEP 2 — Save it**
+- Save as `sitemap.xml`
+- Save location: `website_enhanced/public/` folder
+
+**STEP 3 — Push to GitHub**
+```
+git add .
+git commit -m "added sitemap"
+git push
