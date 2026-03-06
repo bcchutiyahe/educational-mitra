@@ -18,14 +18,3 @@
   <url><loc>https://educationalmitra.in/about</loc></url>
   <url><loc>https://educationalmitra.in/contact</loc></url>
 </urlset>
-```
-
-**STEP 2 — Save it**
-- Save as `sitemap.xml`
-- Save location: `website_enhanced/public/` folder
-
-**STEP 3 — Push to GitHub**
-```
-git add .
-git commit -m "added sitemap"
-git push
